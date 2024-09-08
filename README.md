@@ -19,9 +19,9 @@ The project is divided into two main folders:
 - **Backend**: Contains all the ASP.NET files, including middleware and database logic.
 - **Frontend**: Contains all the React files, including the user interface and frontend logic.
 
-## Backend (ASP.NET)
+## Backend (.NET Core)
 
-- **ASP.NET Version**: 3.1.12
+- **.NET Core Version**: 8.0.302
 - **Database**: PostgreSQL
 
 The backend is responsible for handling all database operations, including CRUD (Create, Read, Update, Delete) operations. It also serves as middleware, handling requests and responses between the frontend and the database.
@@ -55,7 +55,7 @@ Follow these steps to get the project up and running:
   Navigate to the Backend folder.
   Install the required packages and dependencies.
   Set up the PostgreSQL database and update the connection string.
-  Run the ASP.NET project.
+  Run the .NET project.
 
 3. **Setup the Backend**:
    
